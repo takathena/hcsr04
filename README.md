@@ -1,6 +1,6 @@
 # Pengukur Suhu - school work
 
-Dibuat untuk menggugurkan kewajiban, tugas dari mapel Pemrograman XII SUJA tingkat lajut dibimbing oleh P. Panca
+Dibuat untuk menggugurkan kewajiban, tugas dari mapel Pemrograman XII SIJA tingkat lajut dibimbing oleh P. Panca
 
 
 ## Result - advanced web programming combined with IoT
